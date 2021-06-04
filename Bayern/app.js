@@ -13,6 +13,9 @@ app.get('/centrocampisti',function(req,res){
 app.get('/difensori',function(req,res){
  res.sendFile(path.join(__dirname,'difensori.html')); //__dirname : Ritorna la cartella del progetto
 });
+app.get('/info',function(req,res){
+ res.sendFile(path.join(__dirname,'info.html')); //__dirname : Ritorna la cartella del progetto
+});
 app.listen(3000, function () {
   console.log('Example app listening on port 3000!');
 });
