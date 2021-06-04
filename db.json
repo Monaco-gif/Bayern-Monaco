@@ -1,9 +1,9 @@
 {
    "posts":[
       {
-         "Valore squadra":800.000.000,
-         "Modulo":4-3-3,
-         "Titolari":"Neuer, Hernandez, Sule, Boateng, Pavard, Goretzka, Kimmich, Muller, Coman, Sane, Lewandowski
+         "Valore squadra":800000000,
+         "Modulo":"4-3-3",
+         "Titolari":" Neuer, Hernandez, Sule, Boateng, Pavard, Goretzka, Kimmich, Muller, Coman, Sane, Lewandowski"
       } 
    ]
 }
